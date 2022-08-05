@@ -1,4 +1,4 @@
-## Certificación JavaScript Algorithms and Data Structures
+## Certificación FreeCodCamp: "JavaScript Algorithms and Data Structures"
 
 ### Proyectos finales
 
